@@ -69,7 +69,7 @@ main {
 .store-item .item-info {
   display: flex;
   justify-content: space-between;
-  margin-top: auto; 
+  margin-top: 20px; 
 }
 
 .store-item img {
